@@ -133,8 +133,8 @@ The trained model is applied to the competition test dataset to generate predict
 ```
 Student-Health-Prediction-ML/
 │
-├── Kaggle_Competition.ipynb
-├── train.csv
+├── student_health_prediction_ML.ipynb
+├── submission.csv
 ├── test.csv
 ├── README.md
 
